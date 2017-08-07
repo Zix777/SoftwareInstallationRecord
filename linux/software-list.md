@@ -21,6 +21,7 @@
 - clipit
 - electronic-wechat
 - screenruler
+- persepolis
 
 ### 官网/软件主页下载
 
