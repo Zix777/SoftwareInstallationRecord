@@ -31,7 +31,7 @@ if [ ${OS} = "Deepin" ]; then
     UNINSTALL="apt purge"
 else
     echo "当前运行系统是${OS}，该脚本仅适用于Deepin"
-    exit(1)
+    exit 1
 fi
 
 # 1. 更新系统
